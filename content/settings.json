@@ -5,6 +5,7 @@
   "short_name": "glossypapelaria",
   "description": "glossypapelaria",
   "primary_color": "#222831",
+  "repository": "ecomplus-stores/glossypapelaria",
   "secondary_color": "#393e46",
   "bg_color": "#ffffff",
   "theme": {
