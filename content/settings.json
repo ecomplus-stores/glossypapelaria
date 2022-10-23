@@ -4,7 +4,7 @@
   "primary_color": "#cc738c",
   "theme": {
     "bootswatch": "litera",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/glossypapelaria",
@@ -14,11 +14,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Poppins",
+  "font_family": "Open Sans",
   "favicon": "/img/uploads/ativo-15.png",
-  "icons_font": "bootstrap-icons",
+  "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#e6bebf",
+  "secondary_color": "#cc738c",
   "icon": "/img/uploads/ativo-1.png",
   "store_id": 11296,
   "description": "glossypapelaria",
