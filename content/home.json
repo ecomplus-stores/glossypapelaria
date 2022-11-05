@@ -18,7 +18,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-novo-glossy-22-b.jpg"
+          "img": "/img/uploads/banner-novo-glossy-22-b.jpg",
+          "link": "https://glossypapelaria.netlify.app/agenda"
         }
       ]
     },
