@@ -1,8 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "",
+    "text": "use o cupom GLOSSYVOLTOU e ganhe desconto / Receba seu pedido em até 48h",
     "link": "",
-    "background": ""
+    "background": "#ea83b6",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
