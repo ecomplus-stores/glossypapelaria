@@ -34,14 +34,14 @@
       "page": 1
     },
     {
-      "type": "page-title",
-      "title": "Glossy Papelaria e Fofuras",
-      "description": "Glossy Papelaria A Glossy é uma papelaria fofa que veio trazer brilho e fofura para sua vida! Aqui você encontra canetas fofas, cadernos, notas adesivas e muitas outras fofuras. Todos os nosso produtos são de qualidade e escolhidos com amor e cuidado para você."
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
+    },
+    {
+      "type": "page-title",
+      "title": "Glossy Papelaria e Fofuras",
+      "description": "Glossy Papelaria A Glossy é uma papelaria fofa que veio trazer brilho e fofura para sua vida! Aqui você encontra canetas fofas, cadernos, notas adesivas e muitas outras fofuras. Todos os nosso produtos são de qualidade e escolhidos com amor e cuidado para você."
     }
   ]
 }
