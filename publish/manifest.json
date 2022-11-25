@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0009bb148543ede33ceb82899cbf0829.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.c2096c1296a3d861d6c8d62b60ebd130.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.945bf2a022d85a7a92b36cc081e7c2fd.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.54682aee2ec586ccee8f42b164526572.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.572c7890e66a4863a31da2f142ee8dd2.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "glossypapelaria",
+  "short_name": "glossypapelaria",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "glossypapelaria",
+  "background_color": "#ffffff",
+  "theme_color": "#cc738c"
+}
